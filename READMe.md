@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Software Engineer from Escuela Politécnica Nacional, passionate about problem-solving, data analysis, and process optimization. Experienced in both Front-End (JavaScript, HTML, CSS) and Back-End (JavaScript, Python, Java, SQL Server) development, with a focus on building dynamic and efficient web applications. Skilled in frameworks such as React JS and Bootstrap to design responsive, interactive user interfaces. Strong background in data analytics, proficient in Power BI, Excel, and Power Automate, leveraging these tools to extract insights and optimize business processes.
 
 
